@@ -1,0 +1,53 @@
+{
+    "hero": {
+        "title": "Direkt från gården",
+        "subtitle": "Köp bär, grönsaker och andra gårdsprodukter direkt från gården utan mellanhänder.",
+        "cta": "Bläddra gårdar"
+    },
+    "search": {
+        "placeholder": "Sök efter gårdens namn, ort eller produkt... (t.ex. Jordgubbe, Borgå)"
+    },
+    "filters": {
+        "products": "Produkter:",
+        "all": "Alla"
+    },
+    "location": {
+        "nearest": "Sorterat efter avstånd (Du är vid: {{lat}}, {{lon}})",
+        "distance": "{{km}} km"
+    },
+    "list": {
+        "loading": "Laddar gårdar...",
+        "error": "Kunde inte ladda gårdar. Kör servern?",
+        "noResults": "Inga resultat med sökorden."
+    },
+    "card": {
+        "noDescription": "Ingen beskrivning tillgänglig.",
+        "productsLabel": "Produkter",
+        "remove": "Ta bort från listan"
+    },
+    "addFarm": {
+        "title": "Lägg till ny gård",
+        "name": "Namn",
+        "location": "Plats",
+        "products": "Produkter",
+        "description": "Beskrivning",
+        "submit": "Lägg till gård"
+    },
+    "footer": {
+        "copyright": "Direkt från gården. Stöd lokalt jordbruk."
+    },
+    "productNames": {
+        "mansikka": "Jordgubbe",
+        "vadelma": "Hallon",
+        "herne": "Ärta",
+        "naudanliha": "Nötkött",
+        "kananmuna": "Ägg",
+        "yrtit": "Örter",
+        "salaatti": "Sallad",
+        "tomaatti": "Tomat",
+        "hunaja": "Honung",
+        "mehiläisvaha": "Bivax",
+        "peruna": "Potatis",
+        "sipuli": "Lök"
+    }
+}

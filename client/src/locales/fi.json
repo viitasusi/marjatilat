@@ -1,0 +1,53 @@
+{
+    "hero": {
+        "title": "Suoraan tilalta",
+        "subtitle": "Hanki marjat, vihannekset ja muut maatilan tuotteet suoraan tilalta ilman välikäsiä.",
+        "cta": "Selaa tiloja"
+    },
+    "search": {
+        "placeholder": "Etsi tilan nimellä, paikkakunnalla tai tuotteella... (esim. Mansikka, Porvoo)"
+    },
+    "filters": {
+        "products": "Tuotteet:",
+        "all": "Kaikki"
+    },
+    "location": {
+        "nearest": "Järjestetty etäisyyden mukaan (Olet sijainnissa: {{lat}}, {{lon}})",
+        "distance": "{{km}} km"
+    },
+    "list": {
+        "loading": "Ladataan tiloja...",
+        "error": "Tilojen lataaminen epäonnistui. Onko palvelin käynnissä?",
+        "noResults": "Ei hakutuloksia hakuehdoilla."
+    },
+    "card": {
+        "noDescription": "Ei kuvausta saatavilla.",
+        "productsLabel": "Tuotteet",
+        "remove": "Poista listauksesta"
+    },
+    "addFarm": {
+        "title": "Lisää uusi tila",
+        "name": "Nimi",
+        "location": "Sijainti",
+        "products": "Tuotteet",
+        "description": "Kuvaus",
+        "submit": "Lisää tila"
+    },
+    "footer": {
+        "copyright": "Suoraan tilalta. Tue paikallista maataloutta."
+    },
+    "productNames": {
+        "mansikka": "Mansikka",
+        "vadelma": "Vadelma",
+        "herne": "Herne",
+        "naudanliha": "Naudanliha",
+        "kananmuna": "Kananmuna",
+        "yrtit": "Yrtit",
+        "salaatti": "Salaatti",
+        "tomaatti": "Tomaatti",
+        "hunaja": "Hunaja",
+        "mehiläisvaha": "Mehiläisvaha",
+        "peruna": "Peruna",
+        "sipuli": "Sipuli"
+    }
+}

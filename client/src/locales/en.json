@@ -1,0 +1,53 @@
+{
+    "hero": {
+        "title": "Direct from Farm",
+        "subtitle": "Get fresh berries, vegetables, and other farm products directly from the source without middlemen.",
+        "cta": "Browse Farms"
+    },
+    "search": {
+        "placeholder": "Search by farm name, location, or product... (e.g. Strawberry, Porvoo)"
+    },
+    "filters": {
+        "products": "Products:",
+        "all": "All"
+    },
+    "location": {
+        "nearest": "Sorted by distance (You are at: {{lat}}, {{lon}})",
+        "distance": "{{km}} km"
+    },
+    "list": {
+        "loading": "Loading farms...",
+        "error": "Failed to load farms. Is the server running?",
+        "noResults": "No results found."
+    },
+    "card": {
+        "noDescription": "No description available.",
+        "productsLabel": "Products",
+        "remove": "Remove Listing"
+    },
+    "addFarm": {
+        "title": "Add New Farm",
+        "name": "Name",
+        "location": "Location",
+        "products": "Products",
+        "description": "Description",
+        "submit": "Add Farm"
+    },
+    "footer": {
+        "copyright": "Direct from Farm. Support local agriculture."
+    },
+    "productNames": {
+        "mansikka": "Strawberry",
+        "vadelma": "Raspberry",
+        "herne": "Pea",
+        "naudanliha": "Beef",
+        "kananmuna": "Egg",
+        "yrtit": "Herbs",
+        "salaatti": "Lettuce",
+        "tomaatti": "Tomato",
+        "hunaja": "Honey",
+        "mehiläisvaha": "Beeswax",
+        "peruna": "Potato",
+        "sipuli": "Onion"
+    }
+}
